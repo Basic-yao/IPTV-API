@@ -35,9 +35,11 @@ player.cntv.cn/standard/live_HLSDRM20180524.swf
 # 第一财经广播
 a1live.livecdn.yicai.com
 ls.qingting.fm
+live.xmcdn.com
 120.24.194.118:10002/608780988
 # 第一财经无画面
 cfss.cc/cdn/dy/diyicaijing.flv
+0832-1dbe-95df-5158.kylintv.tv
 # 频道结果会全跳过
 kkk.jjjj.jiduo.me
 # 错误的都市剧场
