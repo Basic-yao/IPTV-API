@@ -29,3 +29,9 @@ yy/1353873252
 154.12.37.196:5555
 serv00.bkpcp.top
 173.208.234.146/live/gdtvs1
+player.cntv.cn/standard/live_HLSDRM20180524.swf#北京财经闪动
+a1live.livecdn.yicai.com/live/radio_tv#第一财经广播
+120.24.194.118:10002/608780988#第一财经广播
+cfss.cc/cdn/dy/diyicaijing.flv#第一财经无画面
+kkk.jjjj.jiduo.me#频道结果会全跳过
+satellitepull.cnr.cn/live/wxcqxwgb/playlist#错误的都市剧场
