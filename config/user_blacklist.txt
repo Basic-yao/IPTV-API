@@ -43,12 +43,13 @@ live.kankanews.com
 playtv-live.ifeng.com
 # 无画面
 cfss.cc/cdn/dy/diyicaijing.flv
-0832-1dbe-95df-5158.kylintv.tv
+kylintv.tv
 # 频道结果会全跳过
 kkk.jjjj.jiduo.me
 # 错误的都市剧场
 satellitepull.cnr.cn
-111.0.115.129:8081/live/222ztxw.m3u8
+111.0.115.129:8081/live/222ztxw
+
 # 广告
 207.56.13.146:81
 #中学生混进CETV-3
