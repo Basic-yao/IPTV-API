@@ -32,7 +32,7 @@ serv00.bkpcp.top
 173.208.234.146/live/gdtvs1
 # 北京财经闪动
 player.cntv.cn/standard
-# 第一财经广播
+# 广播
 a1live.livecdn.yicai.com
 ls.qingting.fm
 live.xmcdn.com
@@ -40,13 +40,15 @@ live.xmcdn.com
 live.kankanews.com
 117.72.81.164:3000
 8.135.27.147:1234
-# 第一财经无画面
+playtv-live.ifeng.com
+# 无画面
 cfss.cc/cdn/dy/diyicaijing.flv
 0832-1dbe-95df-5158.kylintv.tv
 # 频道结果会全跳过
 kkk.jjjj.jiduo.me
 # 错误的都市剧场
 satellitepull.cnr.cn
+111.0.115.129:8081/live/222ztxw.m3u8
 # 广告
 207.56.13.146:81
 #中学生混进CETV-3
