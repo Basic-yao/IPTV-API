@@ -17,7 +17,7 @@
 
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
-
+Beyond专辑打碟DJ串烧(60分钟),https://v95-web-sz.douyinvod.com/999c126200542e834e8081fe3edcb50c/6abb810f/video/tos/cn/tos-cn-vd-0026/oszBwCLt9RG8FKAA4YAAepIfU4AB743BaAeypC/media-video-avc1/?a=6383&ch=0&cr=8&dr=0&er=1&lr=default&cd=0|0|0|3&cv=1&br=2009&bt=2009&cs=0&ds=4&mime_type=video_mp4&qs=0&rc=Nzk2NzM7ODgzaDc8NztkZEBpM3hpd2w5cjNzPDMzNGkzM0AzYDVjMi9iNmExY2FiLTVeYSNqZDRrMmRrYmFhLS1kLWFzcw==&btag=c0000e00038000&cquery=100w_100o&dy_q=1790584620&l=20260928163700C080B0B7A371797D32B5
 
 [KEYWORDS]
 # 以下区域是关键字白名单，某频道获取到的接口地址中含有指定关键字，则该接口会被加入该频道的白名单，多条记录换行输入。
