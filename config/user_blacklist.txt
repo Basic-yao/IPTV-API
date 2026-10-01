@@ -49,6 +49,8 @@ kkk.jjjj.jiduo.me
 # 错误的都市剧场
 satellitepull.cnr.cn
 111.0.115.129:8081/live/222ztxw
+d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+turnerlive.warnermediacdn.com
 
 # 广告
 207.56.13.146:81
